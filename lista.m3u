@@ -254,8 +254,11 @@ http://190.61.42.218:9000/play/a0c0/index.m3u8
 #EXTINF:-1 group-title="Tv Cable 📡",Nat Geo HD
 #EXTGRP:Tv Cable 📡
 http://190.61.42.218:9000/play/a07y/index.m3u8
+
+#EXTGRP:Tv Cable 📡
 #EXTINF:-1 group-title="Tv Cable 📡",Golden Edge HD
 http://38.211.119.30:50002/play/a0fd/index.m3u8u?hls
+
 #EXTGRP:Tv Cable 📡
 #EXTINF:-1 group-title="Tv Cable 📡",Golden
 http://209.14.98.47:8000/play/a0u8/index.m3u8
