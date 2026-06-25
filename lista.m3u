@@ -1,0 +1,308 @@
+#EXTM3U
+
+# ==========================================
+# NACIONALES ECUADOR 🇪🇨
+# ==========================================
+#EXTINF:-1 group-title="Nacionales Ecuador 🇪🇨",Ecuavisa
+#EXTGRP:Nacionales Ecuador 🇪🇨
+http://209.14.98.47:8000/play/a0w6/index.m3u8?hls
+#EXTINF:-1 group-title="Nacionales Ecuador 🇪🇨",Teleamazonas
+#EXTGRP:Nacionales Ecuador 🇪🇨
+http://190.90.71.103:8000/play/a00o/index.m3u8
+#EXTINF:-1 group-title="Nacionales Ecuador 🇪🇨",TC Televisión
+#EXTGRP:Nacionales Ecuador 🇪🇨
+http://209.14.98.47:8000/play/a0ul/index.m3u8?hls
+#EXTINF:-1 group-title="Nacionales Ecuador 🇪🇨",Ecuador TV
+#EXTGRP:Nacionales Ecuador 🇪🇨
+http://209.14.98.47:8000/play/a0uj/index.m3u8?hls
+#EXTINF:-1 group-title="Nacionales Ecuador 🇪🇨",Gamavisión
+#EXTGRP:Nacionales Ecuador 🇪🇨
+http://209.14.98.47:8000/play/a0uk/index.m3u8?hls
+#EXTINF:-1 group-title="Nacionales Ecuador 🇪🇨",Oromar TV
+#EXTGRP:Nacionales Ecuador 🇪🇨
+http://190.61.42.218:9000/play/a0a4/index.m3u8
+#EXTINF:-1 group-title="Nacionales Ecuador 🇪🇨",RTU
+#EXTGRP:Nacionales Ecuador 🇪🇨
+http://209.14.98.47:8000/play/a0uf/index.m3u8?hls
+
+# ==========================================
+# NACIONALES COLOMBIA 🇨🇴
+# ==========================================
+#EXTINF:-1 group-title="Nacionales Colombia 🇨🇴",Caracol TV HD
+#EXTGRP:Nacionales Colombia 🇨🇴
+http://209.14.98.47:8000/play/CanalCaracol/index.m3u8?hls
+#EXTINF:-1 group-title="Nacionales Colombia 🇨🇴",Canal RCN HD
+#EXTGRP:Nacionales Colombia 🇨🇴
+http://190.61.42.218:9000/play/a0a2/index.m3u8
+#EXTINF:-1 group-title="Nacionales Colombia 🇨🇴",Canal Uno
+#EXTGRP:Nacionales Colombia 🇨🇴
+http://190.61.42.218:9000/play/a04u/index.m3u8
+#EXTINF:-1 group-title="Nacionales Colombia 🇨🇴",City TV
+#EXTGRP:Nacionales Colombia 🇨🇴
+http://190.61.42.218:9000/play/a074/index.m3u8
+#EXTINF:-1 group-title="Nacionales Colombia 🇨🇴",Señal Colombia
+#EXTGRP:Nacionales Colombia 🇨🇴
+http://190.61.42.218:9000/play/a04s/index.m3u8
+#EXTINF:-1 group-title="Nacionales Colombia 🇨🇴",Canal Capital
+#EXTGRP:Nacionales Colombia 🇨🇴
+http://190.61.42.218:9000/play/a075/index.m3u8
+#EXTINF:-1 group-title="Nacionales Colombia 🇨🇴",Canal Institucional
+#EXTGRP:Nacionales Colombia 🇨🇴
+http://190.61.42.218:9000/play/a04t/index.m3u8
+#EXTINF:-1 group-title="Nacionales Colombia 🇨🇴",Canal TRO
+#EXTGRP:Nacionales Colombia 🇨🇴
+http://190.61.42.218:9000/play/a072/index.m3u8
+#EXTINF:-1 group-title="Nacionales Colombia 🇨🇴",Teleantioquia
+#EXTGRP:Nacionales Colombia 🇨🇴
+http://190.61.42.218:9000/play/a06g/index.m3u8
+#EXTINF:-1 group-title="Nacionales Colombia 🇨🇴",Telecafé
+#EXTGRP:Nacionales Colombia 🇨🇴
+http://190.61.42.218:9000/play/a01z/index.m3u8
+#EXTINF:-1 group-title="Nacionales Colombia 🇨🇴",Telecaribe
+#EXTGRP:Nacionales Colombia 🇨🇴
+http://190.61.42.218:9000/play/a01y/index.m3u8
+#EXTINF:-1 group-title="Nacionales Colombia 🇨🇴",Telepacífico
+#EXTGRP:Nacionales Colombia 🇨🇴
+http://190.61.42.218:9000/play/a01t/index.m3u8
+#EXTINF:-1 group-title="Nacionales Colombia 🇨🇴",Telemedellín HD
+#EXTGRP:Nacionales Colombia 🇨🇴
+http://190.61.42.218:9000/play/a07k/index.m3u8
+#EXTINF:-1 group-title="Nacionales Colombia 🇨🇴",Canal 13 / Trece
+#EXTGRP:Nacionales Colombia 🇨🇴
+http://209.14.98.47:8000/play/a0ve/index.m3u8?hls
+#EXTINF:-1 group-title="Nacionales Colombia 🇨🇴",Canal El Tiempo
+#EXTGRP:Nacionales Colombia 🇨🇴
+http://190.61.46.92:8009/play/a0fo/index.m3u8
+#EXTINF:-1 group-title="Nacionales Colombia 🇨🇴",NTN24 
+#EXTGRP:Nacionales Colombia 🇨🇴
+http://190.61.42.218:9000/play/a0aq/index.m3u8
+#EXTINF:-1 group-title="Nacionales Colombia 🇨🇴",RCN Novelas
+#EXTGRP:Nacionales Colombia 🇨🇴
+http://190.61.42.218:9000/play/a07c/index.m3u8
+#EXTINF:-1 group-title="Nacionales Colombia 🇨🇴",LA KALLE
+#EXTGRP:Nacionales Colombia 🇨🇴
+http://190.61.42.218:9000/play/a04j/index.m3u8
+#EXTINF:-1 group-title="Nacionales Colombia 🇨🇴",Canal del Congreso
+#EXTGRP:Nacionales Colombia 🇨🇴
+http://190.61.42.218:9000/play/a07j/index.m3u8
+
+# ==========================================
+# ⚽ DEPORTES 🏆
+# ==========================================
+#EXTINF:-1 group-title="⚽ DEPORTES 🏆",DSPORTS
+#EXTGRP:⚽ DEPORTES 🏆
+http://190.61.42.218:9000/play/a0a9/index.m3u8
+#EXTINF:-1 group-title="⚽ DEPORTES 🏆",ESPN HD
+#EXTGRP:⚽ DEPORTES 🏆
+http://190.61.42.218:9000/play/a05t/index.m3u8
+#EXTINF:-1 group-title="⚽ DEPORTES 🏆",ESPN 2 HD
+#EXTGRP:⚽ DEPORTES 🏆
+http://190.61.42.218:9000/play/a05n/index.m3u8
+#EXTINF:-1 group-title="⚽ DEPORTES 🏆",ESPN 3 HD
+#EXTGRP:⚽ DEPORTES 🏆
+http://190.61.42.218:9000/play/a061/index.m3u8
+#EXTINF:-1 group-title="⚽ DEPORTES 🏆",ESPN 4 HD
+#EXTGRP:⚽ DEPORTES 🏆
+http://190.61.42.218:9000/play/a07f/index.m3u8
+#EXTINF:-1 group-title="⚽ DEPORTES 🏆",ESPN 5 HD
+#EXTGRP:⚽ DEPORTES 🏆
+http://190.61.42.218:9000/play/a082/index.m3u8
+#EXTINF:-1 group-title="⚽ DEPORTES 🏆",ESPN 6 HD
+#EXTGRP:⚽ DEPORTES 🏆
+http://190.61.42.218:9000/play/a062/index.m3u8
+#EXTINF:-1 group-title="⚽ DEPORTES 🏆",ESPN 7 HD
+#EXTGRP:⚽ DEPORTES 🏆
+http://190.61.42.218:9000/play/a01j/index.m3u8
+#EXTINF:-1 group-title="⚽ DEPORTES 🏆",Win Sports+ HD
+#EXTGRP:⚽ DEPORTES 🏆
+http://190.61.42.218:9000/play/a01s/index.m3u8
+#EXTINF:-1 group-title="⚽ DEPORTES 🏆",Win Sports Básica
+#EXTGRP:⚽ DEPORTES 🏆
+http://190.61.42.218:9000/play/a084/index.m3u8
+#EXTINF:-1 group-title="⚽ DEPORTES 🏆",TyC Sports
+#EXTGRP:⚽ DEPORTES 🏆
+http://190.61.42.218:9000/play/a047/index.m3u8
+#EXTINF:-1 group-title="⚽ DEPORTES 🏆",TNT Sports Premium HD
+#EXTGRP:⚽ DEPORTES 🏆
+http://209.14.98.47:8000/play/a0x5/index.m3u8?hls
+#EXTINF:-1 group-title="⚽ DEPORTES 🏆",Golf Channel
+#EXTGRP:⚽ DEPORTES 🏆
+http://209.14.98.47:8000/play/a0u4/index.m3u8?hls
+
+# ==========================================
+# TV CABLE / VARIADADES 📡
+# ==========================================
+#EXTINF:-1 group-title="Tv Cable 📡",A&E HD
+#EXTGRP:Tv Cable 📡
+http://190.61.42.218:9000/play/a058/index.m3u8
+#EXTINF:-1 group-title="Tv Cable 📡",AMC HD
+#EXTGRP:Tv Cable 📡
+http://190.61.42.218:9000/play/a069/index.m3u8
+#EXTINF:-1 group-title="Tv Cable 📡",AXN HD
+#EXTGRP:Tv Cable 📡
+http://190.61.42.218:9000/play/a005/index.m3u8
+#EXTINF:-1 group-title="Tv Cable 📡",Adult Swim
+#EXTGRP:Tv Cable 📡
+http://190.61.42.218:9000/play/a06r/index.m3u8
+#EXTINF:-1 group-title="Tv Cable 📡",Animal Planet HD
+#EXTGRP:Tv Cable 📡
+http://190.61.42.218:9000/play/a07x/index.m3u8
+#EXTINF:-1 group-title="Tv Cable 📡",America TV HD
+#EXTGRP:Tv Cable 📡
+http://190.61.46.92:8009/play/a09d/index.m3u8
+#EXTINF:-1 group-title="Tv Cable 📡",Baby TV
+#EXTGRP:Tv Cable 📡
+http://190.61.42.218:9000/play/a08a/index.m3u8
+#EXTINF:-1 group-title="Tv Cable 📡",Cartoon Network HD
+#EXTGRP:Tv Cable 📡
+http://190.61.42.218:9000/play/a08b/index.m3u8
+#EXTINF:-1 group-title="Tv Cable 📡",Cartoonito
+#EXTGRP:Tv Cable 📡
+http://190.61.42.218:9000/play/a05r/index.m3u8
+#EXTINF:-1 group-title="Tv Cable 📡",Cinecanal HD
+#EXTGRP:Tv Cable 📡
+http://190.61.42.218:9000/play/a06j/index.m3u8
+#EXTINF:-1 group-title="Tv Cable 📡",Cinemax
+#EXTGRP:Tv Cable 📡
+http://190.61.42.218:9000/play/a01q/index.m3u8
+#EXTINF:-1 group-title="Tv Cable 📡",CNN en Español
+#EXTGRP:Tv Cable 📡
+http://190.61.42.218:9000/play/a00t/index.m3u8
+#EXTINF:-1 group-title="Tv Cable 📡",Comedy Central HD
+#EXTGRP:Tv Cable 📡
+http://190.90.71.103:8000/play/a0at/index.m3u8
+#EXTINF:-1 group-title="Tv Cable 📡",DHE HD
+#EXTGRP:Tv Cable 📡
+http://190.61.46.92:8009/play/a0c9/index.m3u8
+#EXTINF:-1 group-title="Tv Cable 📡",De Película
+#EXTGRP:Tv Cable 📡
+http://190.61.42.218:9000/play/a080/index.m3u8
+#EXTINF:-1 group-title="Tv Cable 📡",Discovery Channel HD
+#EXTGRP:Tv Cable 📡
+http://190.61.42.218:9000/play/a05k/index.m3u8
+#EXTINF:-1 group-title="Tv Cable 📡",Discovery Kids HD
+#EXTGRP:Tv Cable 📡
+http://190.61.42.218:9000/play/a00s/index.m3u8
+#EXTINF:-1 group-title="Tv Cable 📡",Discovery Science
+#EXTGRP:Tv Cable 📡
+http://190.61.42.218:9000/play/a00h/index.m3u8
+#EXTINF:-1 group-title="Tv Cable 📡",Discovery Turbo
+#EXTGRP:Tv Cable 📡
+http://190.61.42.218:9000/play/a01v/index.m3u8
+#EXTINF:-1 group-title="Tv Cable 📡",Disney Channel HD
+#EXTGRP:Tv Cable 📡
+http://190.61.46.92:8009/play/a0ex/index.m3u8
+#EXTINF:-1 group-title="Tv Cable 📡",Disney Jr.
+#EXTGRP:Tv Cable 📡
+http://190.61.42.218:9000/play/a00z/index.m3u8
+#EXTINF:-1 group-title="Tv Cable 📡",E! Entertainment TV
+#EXTGRP:Tv Cable 📡
+http://190.61.42.218:9000/play/a019/index.m3u8
+#EXTINF:-1 group-title="Tv Cable 📡",El Gourmet HD
+#EXTGRP:Tv Cable 📡
+http://190.61.42.218:9000/play/a0as/index.m3u8
+#EXTINF:-1 group-title="Tv Cable 📡",Europa Europa
+#EXTGRP:Tv Cable 📡
+http://190.61.42.218:9000/play/a08d/index.m3u8
+#EXTINF:-1 group-title="Tv Cable 📡",FX HD
+#EXTGRP:Tv Cable 📡
+http://190.61.42.218:9000/play/a044/index.m3u8
+#EXTINF:-1 group-title="Tv Cable 📡",Food Network
+#EXTGRP:Tv Cable 📡
+http://190.61.42.218:9000/play/a00j/index.m3u8
+#EXTINF:-1 group-title="Tv Cable 📡",HBO HD
+#EXTGRP:Tv Cable 📡
+http://190.61.42.218:9000/play/a049/index.m3u8
+#EXTINF:-1 group-title="Tv Cable 📡",HBO 2
+#EXTGRP:Tv Cable 📡
+http://190.61.42.218:9000/play/a00v/index.m3u8
+#EXTINF:-1 group-title="Tv Cable 📡",HBO Family HD
+#EXTGRP:Tv Cable 📡
+http://190.61.42.218:9000/play/a02s/index.m3u8
+#EXTINF:-1 group-title="Tv Cable 📡",HBO POP HD
+#EXTGRP:Tv Cable 📡
+http://190.61.42.218:9000/play/a01n/index.m3u8
+#EXTINF:-1 group-title="Tv Cable 📡",HBO Xtreme HD
+#EXTGRP:Tv Cable 📡
+http://190.61.42.218:9000/play/a00x/index.m3u8
+#EXTINF:-1 group-title="Tv Cable 📡",HGTV / Discovery HGTV
+#EXTGRP:Tv Cable 📡
+http://190.61.42.218:9000/play/a05p/index.m3u8
+#EXTINF:-1 group-title="Tv Cable 📡",History Channel HD
+#EXTGRP:Tv Cable 📡
+http://190.61.42.218:9000/play/a05b/index.m3u8
+#EXTINF:-1 group-title="Tv Cable 📡",History 2
+#EXTGRP:Tv Cable 📡
+http://190.61.46.92:8009/play/a0fd/index.m3u8
+#EXTINF:-1 group-title="Tv Cable 📡",Home & Health HD
+#EXTGRP:Tv Cable 📡
+http://190.61.42.218:9000/play/a00u/index.m3u8
+#EXTINF:-1 group-title="Tv Cable 📡",HTV
+#EXTGRP:Tv Cable 📡
+http://190.61.42.218:9000/play/a0ax/index.m3u8
+#EXTINF:-1 group-title="Tv Cable 📡",ID HD
+#EXTGRP:Tv Cable 📡
+http://190.61.42.218:9000/play/a04h/index.m3u8
+#EXTINF:-1 group-title="Tv Cable 📡",Las Estrellas HD
+#EXTGRP:Tv Cable 📡
+http://190.61.42.218:9000/play/a09t/index.m3u8
+#EXTINF:-1 group-title="Tv Cable 📡",Lifetime
+#EXTGRP:Tv Cable 📡
+http://190.61.42.218:9000/play/a0c0/index.m3u8
+#EXTINF:-1 group-title="Tv Cable 📡",MTV HD
+#EXTGRP:Tv Cable 📡
+http://190.61.42.218:9000/play/a00i/index.m3u8
+#EXTINF:-1 group-title="Tv Cable 📡",Nat Geo HD
+#EXTGRP:Tv Cable 📡
+http://190.61.42.218:9000/play/a07y/index.m3u8
+#EXTINF:-1 group-title="Tv Cable 📡",Nickelodeon HD
+#EXTGRP:Tv Cable 📡
+http://190.61.42.218:9000/play/a02n/index.m3u8
+#EXTINF:-1 group-title="Tv Cable 📡",Pasiones HD
+#EXTGRP:Tv Cable 📡
+http://190.61.42.218:9000/play/a05x/index.m3u8
+#EXTINF:-1 group-title="Tv Cable 📡",Sony HD
+#EXTGRP:Tv Cable 📡
+http://190.61.46.92:8009/play/a0cb/index.m3u8
+#EXTINF:-1 group-title="Tv Cable 📡",Space HD
+#EXTGRP:Tv Cable 📡
+http://190.61.42.218:9000/play/a05l/index.m3u8
+#EXTINF:-1 group-title="Tv Cable 📡",Star Channel HD
+#EXTGRP:Tv Cable 📡
+http://190.61.42.218:9000/play/a07t/index.m3u8
+#EXTINF:-1 group-title="Tv Cable 📡",Studio Universal HD
+#EXTGRP:Tv Cable 📡
+http://190.61.46.92:8009/play/a0ce/index.m3u8
+#EXTINF:-1 group-title="Tv Cable 📡",TCM
+#EXTGRP:Tv Cable 📡
+http://190.61.42.218:9000/play/a00l/index.m3u8
+#EXTINF:-1 group-title="Tv Cable 📡",TLC
+#EXTGRP:Tv Cable 📡
+http://190.61.42.218:9000/play/a01g/index.m3u8
+#EXTINF:-1 group-title="Tv Cable 📡",TNT HD
+#EXTGRP:Tv Cable 📡
+http://190.61.42.218:9000/play/a060/index.m3u8
+#EXTINF:-1 group-title="Tv Cable 📡",TNT Novelas HD
+#EXTGRP:Tv Cable 📡
+http://190.61.42.218:9000/play/a07d/index.m3u8
+#EXTINF:-1 group-title="Tv Cable 📡",TNT Series HD
+#EXTGRP:Tv Cable 📡
+http://190.61.42.218:9000/play/a022/index.m3u8
+#EXTINF:-1 group-title="Tv Cable 📡",Telemundo
+#EXTGRP:Tv Cable 📡
+http://190.61.42.218:9000/play/a01l/index.m3u8
+#EXTINF:-1 group-title="Tv Cable 📡",Tlnovelas
+#EXTGRP:Tv Cable 📡
+http://190.61.42.218:9000/play/a00k/index.m3u8
+#EXTINF:-1 group-title="Tv Cable 📡",Tooncast
+#EXTGRP:Tv Cable 📡
+http://190.61.42.218:9000/play/a06i/index.m3u8
+#EXTINF:-1 group-title="Tv Cable 📡",Universal Channel HD
+#EXTGRP:Tv Cable 📡
+http://190.61.42.218:9000/play/a00g/index.m3u8
+#EXTINF:-1 group-title="Tv Cable 📡",USA Network
+#EXTGRP:Tv Cable 📡
+http://190.61.42.218:9000/play/a00r/index.m3u8
+#EXTINF:-1 group-title="Tv Cable 📡",Warner TV HD
+#EXTGRP:Tv Cable 📡
+http://190.61.42.218:9000/play/a04d/index.m3u8
