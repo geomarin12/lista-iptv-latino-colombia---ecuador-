@@ -261,7 +261,7 @@ http://190.61.42.218:9000/play/a07y/index.m3u8
 http://209.14.98.47:8000/play/a0u8/index.m3u8
 #EXTGRP:Tv Cable 📡
 #EXTINF:-1 group-title="Tv Cable 📡",Golden Edge
-http://209.14.98.47:8000/play/a0u7/index.m3u8
+http://38.211.119.30:50002/play/a0fd/index.m3u8
 #EXTGRP:Tv Cable 📡
 http://190.61.42.218:9000/play/a02n/index.m3u8
 #EXTINF:-1 group-title="Tv Cable 📡",Pasiones HD
