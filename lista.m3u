@@ -314,4 +314,4 @@ http://190.61.42.218:9000/play/a00r/index.m3u8
 http://190.61.42.218:9000/play/a04d/index.m3u8
 #EXTGRP:Tv Cable 📡
 #EXTINF:-1 group-title="Tv Cable 📡",Playboy HD
-http://209.14.98.47:8000/play/a0va/index.m3u8?hls
+http://209.14.98.47:8000/play/a0va/index.m3u8
