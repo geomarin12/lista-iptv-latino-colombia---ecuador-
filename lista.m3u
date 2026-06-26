@@ -4,6 +4,10 @@
 # ==========================================
 #EXTINF:-1 tvg-name="Ecuavisa" group-title="Nacionales Ecuador 🇪🇨",Ecuavisa
 http://209.14.98.47:8000/play/a0w6/index.m3u8?hls
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="🇪🇨 | ECUADOR" tvg-logo="http://flx.lat:8080/images/4d358721c803edde72b9e29ef08ab996.png",RTS HD
+http://miotv.cc:8080/live/RESTREAMCRUEL/T7464747/272211.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="🇪🇨 | ECUADOR" tvg-logo="https://i.postimg.cc/435vZQWq/images-4.png",06 | TELEAMAZONAS ᴴᴰ ÉCN
+http://miotv.cc:8080/live/RESTREAMCRUEL/T7464747/272205.m3u8
 #EXTINF:-1 tvg-name="Teleamazonas" group-title="Nacionales Ecuador 🇪🇨",Teleamazonas
 http://190.90.71.103:8000/play/a00o/index.m3u8
 #EXTINF:-1 tvg-name="TC Television" group-title="Nacionales Ecuador 🇪🇨",TC Televisión
@@ -212,6 +216,15 @@ http://190.61.42.218:9000/play/a00r/index.m3u8
 http://190.61.42.218:9000/play/a04d/index.m3u8
 #EXTINF:-1 tvg-name="Playboy TV" group-title="Tv Cable 📡",Playboy TV
 http://209.14.98.47:8000/play/a0va/index.m3u8
-
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="❌❌❌  | OPC 2" tvg-logo="https://painel.binstream.me/lgs_btv/sexyhot.png",SEXY HOT HD
+http://miotv.cc:8080/live/RESTREAMCRUEL/T7464747/413554.m3u8
 #EXTINF:-1 group-title="Tv Cable 5📡",Sony Movies
 http://38.211.119.30:50002/play/a0g4/index.m3u8u?hls
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="🎬 | CINE PREMIUM HD - SD" tvg-logo="https://i.ibb.co/nrrvNBf/PREMIEER.png",CINE | GOLDEN PREMIER  HD
+http://miotv.cc:8080/live/RESTREAMCRUEL/T7464747/187221.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="🎬 | CINE PREMIUM HD - SD" tvg-logo="https://i.ibb.co/64P8bHR/paramountsd.png",CINE | PARAMOUNT CHANEL SD
+http://miotv.cc:8080/live/RESTREAMCRUEL/T7464747/187225.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="🎬 | CINE PREMIUM HD - SD" tvg-logo="https://i.ibb.co/bRgXjbs/CINELATINO.png",CINE | CINE LATINO
+http://miotv.cc:8080/live/RESTREAMCRUEL/T7464747/187229.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="⚽ | DEPORTES PREMIUM HD - SD" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/ECUADOR/GOLTV.png",GOL TV LATINOAMERICA
+http://miotv.cc:8080/live/RESTREAMCRUEL/T7464747/187345.m3u8
