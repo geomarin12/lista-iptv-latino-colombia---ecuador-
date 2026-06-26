@@ -212,3 +212,6 @@ http://190.61.42.218:9000/play/a00r/index.m3u8
 http://190.61.42.218:9000/play/a04d/index.m3u8
 #EXTINF:-1 tvg-name="Playboy TV" group-title="Tv Cable 📡",Playboy TV
 http://209.14.98.47:8000/play/a0va/index.m3u8
+
+#EXTINF:-1 group-title="Tv Cable 5📡",Sony Movies
+http://38.211.119.30:50002/play/a0g4/index.m3u8u?hls
